@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafso20
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, Javascript, Node.JS, Express.js, MongoDB, Docker, SQL, PostgreSQL, REST APIs, Python and React.
-- - Check out this project I collaborated on: [Hangman Game](https://github.com/HarryTB2112/syntax-squad)
+- Check out this project I collaborated on: [Hangman Game](https://github.com/HarryTB2112/syntax-squad)
 - 💞️ I’m looking to create my first solo project on a profile website.
 - 📫 How to reach me: [LinkedIn](http://linkedin.com/in/hafso-salad-11b50613b)
 
