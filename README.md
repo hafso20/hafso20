@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hafso.
-- :scroll: I am a recent graduate at the University of Hertforshire with a First Class in Mathematics
+- :scroll: I am a recent graduate at the University of Hertforshire with a First Class Honours in Mathematics.
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, Javascript, Node.JS, Express.js, MongoDB, Docker, SQL, PostgreSQL, REST APIs, Python and React.
 - :computer: Check out this project I collaborated on: [Hangman Game](https://github.com/HarryTB2112/syntax-squad)
