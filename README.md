@@ -1,10 +1,3 @@
-- 👋 Hi, I’m hafso.
-- :scroll: I am a recent graduate at the University of Hertforshire with a First Class Honours in Mathematics and a GPA of 4.22.
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node.JS, Express.js, MongoDB, Docker, SQL and REST APIs.
-- :computer: Check out this project I collaborated on: [BrainVille](https://github.com/HarryTB2112/syntax-squad)
-- 💞️ I’m looking to create my first solo project on a profile website.
-- 📫 How to reach me: [LinkedIn](http://linkedin.com/in/hafso-salad-11b50613b)
 
 <!---
 hafso20/hafso20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
